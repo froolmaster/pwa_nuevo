@@ -24,3 +24,9 @@ self.addEventListener("install" , event => {
 
     event.waitUntil(Promise.all({cacheNormal , cacheImmutable}));
 })
+
+
+self.addEventListener("activate" , event =>
+{
+    
+});
