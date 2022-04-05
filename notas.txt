@@ -1,0 +1,5 @@
+--Conseguir iconos de varios tamanos y meterlos al images/icons
+--PWA tools plugin para android studio
+-- A los requests quitarles el dash principal para evitar problemas
+-- Crear repo en github vacio y le metemos el proyecto.
+-- 
