@@ -1,0 +1,12 @@
+{
+    "short_name" : "pwa" ,   
+    "name" : "Aplicacion para PWA." ,
+    "start_url" : "index.html" ,
+    "background_color" : "#ededed",
+    "display" : "standalone",
+    "orientation" : "portrait",
+    "icons" : [
+        {"src" : "images/icons" , "type" : "image.png" , "sizes" : "72x72"}
+    ] ,
+    "theme_color" : "#ededed"
+}
