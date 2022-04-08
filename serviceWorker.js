@@ -3,7 +3,7 @@ importScripts('swa.js')
 const STATIC_CACHE = "cache-1";
 const DYNAMIC_CACHE = "dynamic-1";
 const INMUTABLE_CACHE = "immutable-1";
-const app_shell = [
+const APP_SHELL = [
     "/" , 
     "index.html" , 
     "css/style.css" , 
@@ -12,7 +12,7 @@ const app_shell = [
     "swa.js" , 
      ];
 
-const app_immutable = [
+const APP_SHELL_INMUTABLE = [
     "https://netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css" , 
     "https://fonts.googleapis.com/css?family=Quicksand:300,400" , 
     "https://fonts.googleapis.com/css?family=Lato:400,300" , 
