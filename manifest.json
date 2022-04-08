@@ -6,7 +6,7 @@
     "display" : "standalone",
     "orientation" : "portrait",
     "icons" : [
-        {"src" : "images/icons" , "type" : "image.png" , "sizes" : "72x72"}
+        {"src" : "images/icons/icon.jpg" , "type" : "image/jpg" , "sizes" : "72x72"}
     ] ,
     "theme_color" : "#ededed"
 }
